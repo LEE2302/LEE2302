@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Welcome!&fontSize=90&fontColor=84cc16&desc=Seyoung's%20Github&descAlignY=70&descAlign=65)
 
 구현해보고 싶은게 많은 프론트엔드 개발자입니다.<br />
-하고싶은게 많아 새로운 지식을 배우는것을 즐기며, 새로운 환경과 새로운 모험을 하는것을 즐깁니다.
+하고싶은게 많아 새로운 지식을 배우는것을 즐기며, 새로운 환경과 새로운 모험을 즐깁니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEE2302&count_bg=%233F7616&title_bg=%2352B260&icon=react.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
